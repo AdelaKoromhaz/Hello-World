@@ -10,9 +10,9 @@ My previous experience varies from office support of purchace for two teams.
 Currently i m working on practice Test scenarios and test caces using excel sheet. For user stories i used ChatGPT 3.5 to to create test scenarios and other webside,blogs.
 
 
-#Courses 
+**Courses** 
 
- Manual testing - Udemy 
- Testing tools 3 month       LiveTech/online/Hyderbad,India 
- Jira theory - Youtube 
+- Manual testing - Udemy 
+- Testing tools 3 month       LiveTech/online/Hyderbad,India 
+- Jira theory - Youtube 
 
