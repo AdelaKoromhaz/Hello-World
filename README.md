@@ -14,15 +14,15 @@ For user stories i used ChatGPT 3.5 to help me create test scenarios/ test cases
 ## Courses
 
 - Manual testing - Udemy 
-- Testing tools 3 month       LiveTech/online/Hyderbad,India 
-- Jira theory - Youtube
+- Testing tools and theory - 3 months coure (LiveTech/online/Hyderbad,India)
+- Jira theory - Youtube 
 
 
 ## My project
 
 ### Test scenarios/ Test cases 
 
-- Test caes for Ebay site 
+- Test cases for Ebay site 
 
 
 
