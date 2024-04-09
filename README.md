@@ -7,8 +7,8 @@ I have recently embarked on a career change journey in order to become a Softwar
 ## My experience
 
 My previous experience varies from office support of purchace for two teams.
-Currently i m working on practice Test scenarios and test caces using excel sheet. 
-For user stories i used ChatGPT 3.5 to help me create test scenarios/ test cases like i m working under product owner in real time. 
+Currently i m working on practice Test scenarios and test caces using excel sheets. 
+For user stories i used ChatGPT 3.5 to help me to create test scenarios/ test cases. I choose e-commers project Ebay.com 
 
 
 ## Courses
@@ -17,8 +17,7 @@ For user stories i used ChatGPT 3.5 to help me create test scenarios/ test cases
 - Testing tools and theory - 3 months course (LiveTech/online/Hyderbad,India)
                              Introducing to Manual and automation testing
                              Theory of manual testing and example of test scenario and test cases
-                             Theory and example automation testing / Selenium/ Eclipse/ Java script/ Github 
-- Jira theory - Youtube 
+                             Theory and example automation testing / Selenium/ Eclipse/ Java script/ Github/ Jira 
 
 
 ## My project
