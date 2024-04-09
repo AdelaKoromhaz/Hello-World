@@ -13,8 +13,11 @@ For user stories i used ChatGPT 3.5 to help me create test scenarios/ test cases
 
 ## Courses
 
-- Manual testing - Udemy 
-- Testing tools and theory - 3 months coure (LiveTech/online/Hyderbad,India)
+- Manual testing - Udemy / Youtube
+- Testing tools and theory - 3 months course (LiveTech/online/Hyderbad,India)
+                             Introducing to Manual and automation testing
+                             Theory of manual testing and example of test scenario and test cases
+                             Theory and example automation testing / Selenium/ Eclipse/ Java script/ Github 
 - Jira theory - Youtube 
 
 
@@ -22,7 +25,9 @@ For user stories i used ChatGPT 3.5 to help me create test scenarios/ test cases
 
 ### Test scenarios/ Test cases 
 
-- Test cases for Ebay site 
+- Test cases for Ebay site
+
+- Bugs 
 
 
 
