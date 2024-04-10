@@ -8,7 +8,7 @@ I have recently embarked on a career change journey in order to become a Softwar
 
 My previous experience varies from office support of purchace for two teams.
 Currently i m working on practice Test scenarios and test caces using excel sheets. 
-For user stories i used ChatGPT 3.5 to help me to create test scenarios/ test cases. I choose e-commers project Ebay.com 
+For User stories i used ChatGPT 3.5 to help me to create test scenarios/ test cases. I choose e-commers project Ebay.com 
 
 
 ## Courses
@@ -24,9 +24,9 @@ For user stories i used ChatGPT 3.5 to help me to create test scenarios/ test ca
 
 ### Test scenarios/ Test cases 
 
-- Test cases for Ebay site
+- Test cases for Ebay site  https://docs.google.com/spreadsheets/d/132BWV8SfbSxBYjmSKFoxQ2kir7ChewU4-aJTVv5ezAM/edit?usp=sharing
 
-- Bugs 
+- Bugs report/ example excel sheet   https://docs.google.com/spreadsheets/d/11gN-eREWst9Fw-Syizx_rFv89YBAprPHGiJ9tm_grbM/edit?usp=sharing
 
 
 
