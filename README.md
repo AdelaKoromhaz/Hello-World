@@ -29,7 +29,7 @@ Also i tried to create report bugs in excel sheet to undertand the system of rep
 I m currenty working on practice to write test scenarios,test cases and bugs report.
 All changes i m updating on the google sheets. 
 
-- Test cases for Ebay site  https://docs.google.com/spreadsheets/d/1eesCBPVe3wm521kXSvL4oFaccKMngQcLlCPXfBEFDhA/edit#gid=1324117575
+- Test cases/ example excel sheet  https://docs.google.com/spreadsheets/d/1eesCBPVe3wm521kXSvL4oFaccKMngQcLlCPXfBEFDhA/edit#gid=1324117575
 
 - Bugs report/ example excel sheet  https://docs.google.com/spreadsheets/d/11gN-eREWst9Fw-Syizx_rFv89YBAprPHGiJ9tm_grbM/edit?usp=sharing
 
