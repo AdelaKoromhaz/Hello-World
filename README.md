@@ -8,7 +8,8 @@ I have recently embarked on a career change journey in order to become a Softwar
 
 My previous experience varies from office support of purchace for two teams.
 Currently i m working on practice Test scenarios and test caces using excel sheets. 
-For User stories i used ChatGPT 3.5 to help me to create test scenarios/ test cases. I choose e-commers project Ebay.com 
+For User stories i used ChatGPT 3.5 to help me to create test scenarios/ test cases. 
+Also i tried to create report bugs in excel sheet to undertand the system of reporting dokuments.
 
 
 ## Courses
@@ -17,16 +18,21 @@ For User stories i used ChatGPT 3.5 to help me to create test scenarios/ test ca
 - Testing tools and theory - 3 months course (LiveTech/online/Hyderbad,India)
                              Introducing to Manual and automation testing
                              Theory of manual testing and example of test scenario and test cases
-                             Theory and example automation testing / Selenium/ Eclipse/ Java script/ Github/ Jira 
+                             Theory and example automation testing / Selenium/ Eclipse/ Java script/ Github/ Jira
+
 
 
 ## My project
 
 ### Test scenarios/ Test cases 
 
+I m currenty worknig on practice to write test scenarios,test cases and bugs report.
+All changes i m updating on the google sheets. 
+
 - Test cases for Ebay site  https://docs.google.com/spreadsheets/d/132BWV8SfbSxBYjmSKFoxQ2kir7ChewU4-aJTVv5ezAM/edit?usp=sharing
 
-- Bugs report/ example excel sheet   https://docs.google.com/spreadsheets/d/11gN-eREWst9Fw-Syizx_rFv89YBAprPHGiJ9tm_grbM/edit?usp=sharing
+- Bugs report/ example excel sheet  https://docs.google.com/spreadsheets/d/11gN-eREWst9Fw-Syizx_rFv89YBAprPHGiJ9tm_grbM/edit?usp=sharing
+
 
 
 
