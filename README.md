@@ -8,7 +8,7 @@ I have recently embarked on a career change journey in order to become a Softwar
 
 My previous experience varies from office support of purchace for two teams.
 Currently i m working on practice Test scenarios and test caces using excel sheets. 
-For User stories i used ChatGPT 3.5 to help me to create test scenarios/ test cases. 
+For User stories and  requirements documents i m using ChatGPT 3.5 to help me to create test scenarios/ test cases. 
 Also i tried to create report bugs in excel sheet to undertand the system of reporting dokuments.
 
 
