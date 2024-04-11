@@ -15,7 +15,7 @@ Also i tried to create report bugs in excel sheet to undertand the system of rep
 ## Courses
 
 - Manual testing - Udemy / Youtube
-- Testing tools and theory - 3 months course (LiveTech/online/Hyderbad,India)
+- Testing tools and theory - 3 months online course (LiveTech/Hyderbad,India)
                              Introducing to Manual and automation testing
                              Theory of manual testing and example of test scenario and test cases
                              Theory and example automation testing / Selenium/ Eclipse/ Java script/ Github/ Jira
@@ -26,10 +26,10 @@ Also i tried to create report bugs in excel sheet to undertand the system of rep
 
 ### Test scenarios/ Test cases 
 
-I m currenty worknig on practice to write test scenarios,test cases and bugs report.
+I m currenty working on practice to write test scenarios,test cases and bugs report.
 All changes i m updating on the google sheets. 
 
-- Test cases for Ebay site  https://docs.google.com/spreadsheets/d/132BWV8SfbSxBYjmSKFoxQ2kir7ChewU4-aJTVv5ezAM/edit?usp=sharing
+- Test cases for Ebay site  https://docs.google.com/spreadsheets/d/1eesCBPVe3wm521kXSvL4oFaccKMngQcLlCPXfBEFDhA/edit#gid=1324117575
 
 - Bugs report/ example excel sheet  https://docs.google.com/spreadsheets/d/11gN-eREWst9Fw-Syizx_rFv89YBAprPHGiJ9tm_grbM/edit?usp=sharing
 
