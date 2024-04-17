@@ -19,6 +19,7 @@ Also i tried to create report bugs in excel sheet to undertand the system of rep
                              Introducing to Manual and automation testing
                              Theory of manual testing and example of test scenario and test cases
                              Theory and example automation testing / Selenium/ Eclipse/ Java script/ Github/ Jira
+- Introduction to API testing 
 
 
 
